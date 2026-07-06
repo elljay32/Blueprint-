@@ -1,0 +1,6 @@
+{
+  "name": "Blueprint",
+  "description": "An interactive educational platform for Scottish Curriculum for Excellence Design and Technology, featuring learning modules, design guides, and assessment tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
